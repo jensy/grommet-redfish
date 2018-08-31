@@ -1,0 +1,1204 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`App renders 1`] = `
+.c8 {
+  display: inline-block;
+  -webkit-flex: 0 0 auto;
+  -ms-flex: 0 0 auto;
+  flex: 0 0 auto;
+  fill: #666666;
+  stroke: #666666;
+}
+
+.c8 g {
+  fill: inherit;
+  stroke: inherit;
+}
+
+.c8 *:not([stroke])[fill="none"] {
+  stroke-width: 0;
+}
+
+.c8 *[stroke*="#"],
+.c8 *[STROKE*="#"] {
+  stroke: inherit;
+  fill: none;
+}
+
+.c8 *[fill-rule],
+.c8 *[FILL-RULE],
+.c8 *[fill*="#"],
+.c8 *[FILL*="#"] {
+  fill: inherit;
+  stroke: none;
+}
+
+.c21 {
+  display: inline-block;
+  -webkit-flex: 0 0 auto;
+  -ms-flex: 0 0 auto;
+  flex: 0 0 auto;
+  fill: #f8f8f8;
+  stroke: #f8f8f8;
+}
+
+.c21 g {
+  fill: inherit;
+  stroke: inherit;
+}
+
+.c21 *:not([stroke])[fill="none"] {
+  stroke-width: 0;
+}
+
+.c21 *[stroke*="#"],
+.c21 *[STROKE*="#"] {
+  stroke: inherit;
+  fill: none;
+}
+
+.c21 *[fill-rule],
+.c21 *[FILL-RULE],
+.c21 *[fill*="#"],
+.c21 *[FILL*="#"] {
+  fill: inherit;
+  stroke: none;
+}
+
+.c1 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  box-sizing: border-box;
+  outline: none;
+  max-width: 100%;
+  background: #EEEEEE;
+  color: #444444;
+  min-width: 0;
+  min-height: 0;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  width: 100%;
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+.c5 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  box-sizing: border-box;
+  outline: none;
+  max-width: 100%;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  min-width: 0;
+  min-height: 0;
+  -webkit-flex-direction: row;
+  -ms-flex-direction: row;
+  flex-direction: row;
+  -webkit-box-pack: start;
+  -webkit-justify-content: flex-start;
+  -ms-flex-pack: start;
+  justify-content: flex-start;
+  margin: 0;
+  padding: 12px;
+}
+
+.c9 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  box-sizing: border-box;
+  outline: none;
+  max-width: 100%;
+  min-width: 0;
+  min-height: 0;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  -webkit-flex: 1 1;
+  -ms-flex: 1 1;
+  flex: 1 1;
+  margin: 48px;
+  padding: 0;
+  overflow: auto;
+}
+
+.c11 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  box-sizing: border-box;
+  outline: none;
+  min-width: 0;
+  min-height: 0;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  -webkit-flex-basis: 192px;
+  -ms-flex-preferred-size: 192px;
+  flex-basis: 192px;
+  margin: 0;
+  padding: 0;
+  border-radius: 6px;
+  overflow: hidden;
+}
+
+.c13 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  box-sizing: border-box;
+  outline: none;
+  max-width: 100%;
+  background: rgba(255,255,255,0.4);
+  color: #444444;
+  min-width: 0;
+  min-height: 0;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  margin: 0;
+  padding: 24px;
+}
+
+.c14 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  box-sizing: border-box;
+  outline: none;
+  max-width: 100%;
+  min-width: 0;
+  min-height: 0;
+  -webkit-flex-direction: row;
+  -ms-flex-direction: row;
+  flex-direction: row;
+  margin: 0;
+  padding: 0;
+}
+
+.c15 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  box-sizing: border-box;
+  outline: none;
+  max-width: 100%;
+  -webkit-align-items: flex-end;
+  -webkit-box-align: flex-end;
+  -ms-flex-align: flex-end;
+  align-items: flex-end;
+  border-top: solid 1px rgba(0,0,0,0.33);
+  min-width: 0;
+  min-height: 0;
+  -webkit-flex-direction: row;
+  -ms-flex-direction: row;
+  flex-direction: row;
+  margin-top: 24px;
+  padding-top: 12px;
+}
+
+.c19 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  box-sizing: border-box;
+  outline: none;
+  max-width: 100%;
+  background: #EEEEEE;
+  color: #444444;
+  min-width: 0;
+  min-height: 0;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  margin: 0;
+  padding: 12px;
+}
+
+.c20 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  box-sizing: border-box;
+  outline: none;
+  max-width: 100%;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  min-width: 0;
+  min-height: 0;
+  -webkit-flex-direction: row;
+  -ms-flex-direction: row;
+  flex-direction: row;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  margin: 0;
+  padding: 12px;
+}
+
+.c7 {
+  -webkit-flex: 0 0 auto;
+  -ms-flex: 0 0 auto;
+  flex: 0 0 auto;
+  width: 12px;
+}
+
+.c6 {
+  font-size: 18px;
+  line-height: 24px;
+}
+
+.c16 {
+  font-size: 34px;
+  line-height: 40px;
+  color: #DDDDDD;
+}
+
+.c17 {
+  font-size: 14px;
+  line-height: 20px;
+  color: #AAAAAA;
+}
+
+.c4 {
+  display: inline-block;
+  box-sizing: border-box;
+  cursor: pointer;
+  outline: none;
+  font: inherit;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  margin: 0;
+  background: transparent;
+  overflow: visible;
+  text-transform: none;
+  color: inherit;
+  border: none;
+  padding: 0;
+  text-align: inherit;
+}
+
+.c12 {
+  display: inline-block;
+  box-sizing: border-box;
+  cursor: pointer;
+  outline: none;
+  font: inherit;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  margin: 0;
+  background: transparent;
+  overflow: visible;
+  text-transform: none;
+  color: inherit;
+  border: none;
+  padding: 0;
+  text-align: inherit;
+  width: 100%;
+  height: 100%;
+  max-width: none;
+  -webkit-flex: 1 0 auto;
+  -ms-flex: 1 0 auto;
+  flex: 1 0 auto;
+}
+
+.c12:hover {
+  background: rgba(221,221,221,0.4);
+  color: #444444;
+  color: black;
+}
+
+.c10 {
+  display: grid;
+  box-sizing: border-box;
+  grid-template-columns: repeat(auto-fill,minmax(192px,1fr));
+  grid-gap: 12px 12px;
+}
+
+.c0 {
+  font-family: Arial;
+  font-size: 18px;
+  line-height: 24px;
+  color: #444444;
+  box-sizing: border-box;
+  -webkit-text-size-adjust: 100%;
+  -ms-text-size-adjust: 100%;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+  width: 100vw;
+  height: 100vh;
+  overflow: auto;
+}
+
+.c2 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  box-sizing: border-box;
+  outline: none;
+  max-width: 100%;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  min-width: 0;
+  min-height: 0;
+  -webkit-flex-direction: row;
+  -ms-flex-direction: row;
+  flex-direction: row;
+  -webkit-flex: 0 0 auto;
+  -ms-flex: 0 0 auto;
+  flex: 0 0 auto;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+  -ms-flex-pack: justify;
+  justify-content: space-between;
+  margin: 0;
+  padding: 12px;
+}
+
+.c3 {
+  font-size: 34px;
+  line-height: 40px;
+  max-width: 816px;
+  font-weight: 600;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.c18 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  box-sizing: border-box;
+  outline: none;
+  max-width: 100%;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  background: #2B3B68;
+  color: #f8f8f8;
+  min-width: 0;
+  min-height: 0;
+  -webkit-flex-direction: row;
+  -ms-flex-direction: row;
+  flex-direction: row;
+  -webkit-flex: 0 0 auto;
+  -ms-flex: 0 0 auto;
+  flex: 0 0 auto;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+  -ms-flex-pack: justify;
+  justify-content: space-between;
+  margin: 0;
+  padding: 12px;
+}
+
+@media only screen and (max-width:699px) {
+  .c1 {
+    margin: 0;
+  }
+}
+
+@media only screen and (max-width:699px) {
+  .c1 {
+    padding: 0;
+  }
+}
+
+@media only screen and (max-width:699px) {
+  .c5 {
+    margin: 0;
+  }
+}
+
+@media only screen and (max-width:699px) {
+  .c5 {
+    padding: 6px;
+  }
+}
+
+@media only screen and (max-width:699px) {
+  .c9 {
+    margin: 24px;
+  }
+}
+
+@media only screen and (max-width:699px) {
+  .c9 {
+    padding: 0;
+  }
+}
+
+@media only screen and (max-width:699px) {
+  .c11 {
+    margin: 0;
+  }
+}
+
+@media only screen and (max-width:699px) {
+  .c11 {
+    padding: 0;
+  }
+}
+
+@media only screen and (max-width:699px) {
+  .c11 {
+    border-radius: 3px;
+  }
+}
+
+@media only screen and (max-width:699px) {
+  .c13 {
+    margin: 0;
+  }
+}
+
+@media only screen and (max-width:699px) {
+  .c13 {
+    padding: 12px;
+  }
+}
+
+@media only screen and (max-width:699px) {
+  .c14 {
+    margin: 0;
+  }
+}
+
+@media only screen and (max-width:699px) {
+  .c14 {
+    padding: 0;
+  }
+}
+
+@media only screen and (max-width:699px) {
+  .c15 {
+    border-top: solid 1px rgba(0,0,0,0.33);
+  }
+}
+
+@media only screen and (max-width:699px) {
+  .c15 {
+    margin-top: 12px;
+  }
+}
+
+@media only screen and (max-width:699px) {
+  .c15 {
+    padding-top: 6px;
+  }
+}
+
+@media only screen and (max-width:699px) {
+  .c19 {
+    margin: 0;
+  }
+}
+
+@media only screen and (max-width:699px) {
+  .c19 {
+    padding: 6px;
+  }
+}
+
+@media only screen and (max-width:699px) {
+  .c20 {
+    margin: 0;
+  }
+}
+
+@media only screen and (max-width:699px) {
+  .c20 {
+    padding: 6px;
+  }
+}
+
+@media only screen and (min-width:700px) {
+  .c4 {
+    -webkit-transition: 0.1s ease-in-out;
+    transition: 0.1s ease-in-out;
+  }
+}
+
+@media only screen and (min-width:700px) {
+  .c12 {
+    -webkit-transition: 0.1s ease-in-out;
+    transition: 0.1s ease-in-out;
+  }
+}
+
+@media only screen and (max-width:699px) {
+  .c2 {
+    margin: 0;
+  }
+}
+
+@media only screen and (max-width:699px) {
+  .c2 {
+    padding: 6px;
+  }
+}
+
+@media only screen and (max-width:699px) {
+  .c3 {
+    font-size: 26px;
+    line-height: 32px;
+    max-width: 624px;
+    font-weight: 600;
+  }
+}
+
+@media only screen and (max-width:699px) {
+  .c3 {
+    margin-top: 0;
+    margin-bottom: 0;
+  }
+}
+
+@media only screen and (max-width:699px) {
+  .c18 {
+    margin: 0;
+  }
+}
+
+@media only screen and (max-width:699px) {
+  .c18 {
+    padding: 6px;
+  }
+}
+
+<div
+  className="c0"
+>
+  <div
+    className="c1"
+  >
+    <header
+      className="c2"
+    >
+      <h1
+        className="c3"
+        size="small"
+      >
+        Server
+      </h1>
+      <div
+        onKeyDown={[Function]}
+      >
+        <button
+          aria-label="Open Menu"
+          className="c4"
+          disabled={false}
+          onBlur={[Function]}
+          onClick={[Function]}
+          onFocus={[Function]}
+          type="button"
+        >
+          <div
+            className="c5"
+          >
+            <span
+              className="c6"
+            >
+              Power Options
+            </span>
+            <div
+              className="c7"
+            />
+            <svg
+              aria-label="Power"
+              className="c8"
+              height="24px"
+              role="img"
+              version="1.1"
+              viewBox="0 0 24 24"
+              width="24px"
+            >
+              <path
+                d="M16,4 C19.3637732,5.43018182 22,8.98935065 22,13 C22,18.6008831 17.5273457,23 12,23 C6.47265429,23 2,18.6008831 2,13 C2,8.98935065 4.63622679,5.43018182 8,4 M12,1 L12,11"
+                fill="none"
+                stroke="#000"
+                strokeWidth="2"
+              />
+            </svg>
+          </div>
+        </button>
+      </div>
+    </header>
+    <div
+      className="c9"
+    >
+      <div
+        className="c10"
+      >
+        <div
+          className="c11"
+        >
+          <a
+            className="c12"
+            disabled={false}
+            href="/System"
+            onBlur={[Function]}
+            onClick={[Function]}
+            onFocus={[Function]}
+          >
+            <div
+              className="c13"
+            >
+              <div
+                className="c14"
+              >
+                <svg
+                  aria-label="Host"
+                  className="c8"
+                  height="24px"
+                  role="img"
+                  version="1.1"
+                  viewBox="0 0 24 24"
+                  width="24px"
+                >
+                  <path
+                    d="M17,4 L18,4 L18,5 L17,5 L17,4 Z M3,1 L21,1 L21,23 L3,23 L3,1 Z M3,13 L21,13 L3,13 Z M3,18 L21,18 L3,18 Z M3,8 L21,8 L3,8 Z"
+                    fill="none"
+                    stroke="#000"
+                    strokeWidth="2"
+                  />
+                </svg>
+                <div
+                  className="c7"
+                />
+                <span
+                  className="c6"
+                >
+                  <strong>
+                    System
+                  </strong>
+                </span>
+              </div>
+            </div>
+          </a>
+        </div>
+        <div
+          className="c11"
+        >
+          <a
+            className="c12"
+            disabled={false}
+            href="/Sessions"
+            onBlur={[Function]}
+            onClick={[Function]}
+            onFocus={[Function]}
+          >
+            <div
+              className="c13"
+            >
+              <div
+                className="c14"
+              >
+                <svg
+                  aria-label="User"
+                  className="c8"
+                  height="24px"
+                  role="img"
+                  version="1.1"
+                  viewBox="0 0 24 24"
+                  width="24px"
+                >
+                  <path
+                    d="M8,24 L8,19 M16,24 L16,19 M3,24 L3,19 C3,14.0294373 7.02943725,11 12,11 C16.9705627,11 21,14.0294373 21,19 L21,24 M12,11 C14.7614237,11 17,8.76142375 17,6 C17,3.23857625 14.7614237,1 12,1 C9.23857625,1 7,3.23857625 7,6 C7,8.76142375 9.23857625,11 12,11 Z"
+                    fill="none"
+                    stroke="#000"
+                    strokeWidth="2"
+                  />
+                </svg>
+                <div
+                  className="c7"
+                />
+                <span
+                  className="c6"
+                >
+                  <strong>
+                    Sessions
+                  </strong>
+                </span>
+              </div>
+            </div>
+          </a>
+        </div>
+        <div
+          className="c11"
+        >
+          <a
+            className="c12"
+            disabled={false}
+            href="/Logs"
+            onBlur={[Function]}
+            onClick={[Function]}
+            onFocus={[Function]}
+          >
+            <div
+              className="c13"
+            >
+              <div
+                className="c14"
+              >
+                <svg
+                  aria-label="Sort"
+                  className="c8"
+                  height="24px"
+                  role="img"
+                  version="1.1"
+                  viewBox="0 0 24 24"
+                  width="24px"
+                >
+                  <path
+                    d="M7,3 L22,3 M7,9 L16,9 M7,15 L22,15 M2,2 L4,2 L4,4 L2,4 L2,2 Z M2,8 L4,8 L4,10 L2,10 L2,8 Z M2,14 L4,14 L4,16 L2,16 L2,14 Z M2,20 L4,20 L4,22 L2,22 L2,20 Z M7,21 L16,21"
+                    fill="none"
+                    stroke="#000"
+                    strokeWidth="2"
+                  />
+                </svg>
+                <div
+                  className="c7"
+                />
+                <span
+                  className="c6"
+                >
+                  <strong>
+                    Logs
+                  </strong>
+                </span>
+              </div>
+            </div>
+          </a>
+        </div>
+        <div
+          className="c11"
+        >
+          <a
+            className="c12"
+            disabled={false}
+            href="/Security"
+            onBlur={[Function]}
+            onClick={[Function]}
+            onFocus={[Function]}
+          >
+            <div
+              className="c13"
+            >
+              <div
+                className="c14"
+              >
+                <svg
+                  aria-label="Shield"
+                  className="c8"
+                  height="24px"
+                  role="img"
+                  version="1.1"
+                  viewBox="0 0 24 24"
+                  width="24px"
+                >
+                  <path
+                    d="M12,22 C12,22 3,18 3,5 C3,5 12,2 12,2 C12,2 21,5 21,5 C21,18 12,22 12,22 Z M4,11 L20,11 M12,2 L12,22"
+                    fill="none"
+                    stroke="#000"
+                    strokeWidth="2"
+                  />
+                </svg>
+                <div
+                  className="c7"
+                />
+                <span
+                  className="c6"
+                >
+                  <strong>
+                    Security
+                  </strong>
+                </span>
+              </div>
+            </div>
+          </a>
+        </div>
+        <div
+          className="c11"
+        >
+          <a
+            className="c12"
+            disabled={false}
+            href="/Memory"
+            onBlur={[Function]}
+            onClick={[Function]}
+            onFocus={[Function]}
+          >
+            <div
+              className="c13"
+            >
+              <div
+                className="c14"
+              >
+                <svg
+                  aria-label="Capacity"
+                  className="c8"
+                  height="24px"
+                  role="img"
+                  version="1.1"
+                  viewBox="0 0 24 24"
+                  width="24px"
+                >
+                  <path
+                    d="M1,19 L23,19 L23,5 L1,5 L1,19 Z M4,16 L7,16 L7,8 L4,8 L4,16 Z M10,16 L13,16 L13,8 L10,8 L10,16 Z"
+                    fill="none"
+                    stroke="#000"
+                    strokeLinecap="round"
+                    strokeWidth="2"
+                  />
+                </svg>
+                <div
+                  className="c7"
+                />
+                <span
+                  className="c6"
+                >
+                  <strong>
+                    Memory
+                  </strong>
+                </span>
+              </div>
+              <div
+                className="c15"
+              >
+                <span
+                  className="c16"
+                  size="xxlarge"
+                >
+                  .
+                </span>
+                <div
+                  className="c7"
+                />
+                <span
+                  className="c17"
+                  size="small"
+                >
+                  GiB
+                </span>
+              </div>
+            </div>
+          </a>
+        </div>
+        <div
+          className="c11"
+        >
+          <a
+            className="c12"
+            disabled={false}
+            href="/Processor"
+            onBlur={[Function]}
+            onClick={[Function]}
+            onFocus={[Function]}
+          >
+            <div
+              className="c13"
+            >
+              <div
+                className="c14"
+              >
+                <svg
+                  aria-label="Calculator"
+                  className="c8"
+                  height="24px"
+                  role="img"
+                  version="1.1"
+                  viewBox="0 0 24 24"
+                  width="24px"
+                >
+                  <path
+                    d="M22,23 L2,23 L2,1 L22,1 L22,23 Z M16,17 L18,17 L18,19 L16,19 L16,17 Z M11,17 L13,17 L13,19 L11,19 L11,17 Z M16,12 L18,12 L18,14 L16,14 L16,12 Z M11,12 L13,12 L13,14 L11,14 L11,12 Z M6,17 L8,17 L8,19 L6,19 L6,17 Z M6,12 L8,12 L8,14 L6,14 L6,12 Z M18,9 L6,9 L6,5 L18,5 L18,9 Z"
+                    fill="none"
+                    stroke="#000"
+                    strokeWidth="2"
+                  />
+                </svg>
+                <div
+                  className="c7"
+                />
+                <span
+                  className="c6"
+                >
+                  <strong>
+                    Processor
+                  </strong>
+                </span>
+              </div>
+            </div>
+          </a>
+        </div>
+        <div
+          className="c11"
+        >
+          <a
+            className="c12"
+            disabled={false}
+            href="/Power"
+            onBlur={[Function]}
+            onClick={[Function]}
+            onFocus={[Function]}
+          >
+            <div
+              className="c13"
+            >
+              <div
+                className="c14"
+              >
+                <svg
+                  aria-label="Action"
+                  className="c8"
+                  height="24px"
+                  role="img"
+                  version="1.1"
+                  viewBox="0 0 24 24"
+                  width="24px"
+                >
+                  <path
+                    d="M1,23 L4,20 L1,23 Z M20,4 L23,1 L20,4 Z M9,11 L12,8 L9,11 Z M13,15 L16,12 L13,15 Z M10,5 L19,14 L20,13 C22,11 24.0533047,8.00000006 20,4 C15.9466953,-5.91784286e-08 13,2 11,4 L10,5 Z M4,11 L5,10 L14,19 L13,20 C11.0000005,22 7.9999999,24.0873857 4,20 C9.84858655e-08,15.9126143 2,13 4,11 Z"
+                    fill="none"
+                    stroke="#000"
+                    strokeWidth="2"
+                  />
+                </svg>
+                <div
+                  className="c7"
+                />
+                <span
+                  className="c6"
+                >
+                  <strong>
+                    Power
+                  </strong>
+                </span>
+              </div>
+              <div
+                className="c15"
+              >
+                <span
+                  className="c16"
+                  size="xxlarge"
+                >
+                  .
+                </span>
+                <div
+                  className="c7"
+                />
+                <span
+                  className="c17"
+                  size="small"
+                >
+                  Watts
+                </span>
+              </div>
+            </div>
+          </a>
+        </div>
+        <div
+          className="c11"
+        >
+          <a
+            className="c12"
+            disabled={false}
+            href="/Temperature"
+            onBlur={[Function]}
+            onClick={[Function]}
+            onFocus={[Function]}
+          >
+            <div
+              className="c13"
+            >
+              <div
+                className="c14"
+              >
+                <svg
+                  aria-label="LocationPin"
+                  className="c8"
+                  height="24px"
+                  role="img"
+                  version="1.1"
+                  viewBox="0 0 24 24"
+                  width="24px"
+                >
+                  <path
+                    d="M12,10 C14.209139,10 16,8.209139 16,6 C16,3.790861 14.209139,2 12,2 C9.790861,2 8,3.790861 8,6 C8,8.209139 9.790861,10 12,10 Z M12,10 L12,22"
+                    fill="none"
+                    stroke="#000"
+                    strokeWidth="2"
+                  />
+                </svg>
+                <div
+                  className="c7"
+                />
+                <span
+                  className="c6"
+                >
+                  <strong>
+                    Temperature
+                  </strong>
+                </span>
+              </div>
+              <div
+                className="c15"
+              >
+                <span
+                  className="c16"
+                  size="xxlarge"
+                >
+                  .
+                </span>
+                <div
+                  className="c7"
+                />
+                <span
+                  className="c17"
+                  size="small"
+                >
+                  Celsius
+                </span>
+              </div>
+            </div>
+          </a>
+        </div>
+      </div>
+    </div>
+    <footer
+      className="c18"
+    >
+      <div
+        className="c19"
+      />
+      <div
+        className="c19"
+      />
+      <div
+        className="c14"
+      >
+        <button
+          className="c4"
+          disabled={false}
+          onBlur={[Function]}
+          onClick={[Function]}
+          onFocus={[Function]}
+          type="button"
+        >
+          <div
+            className="c20"
+          >
+            <svg
+              aria-label="Location"
+              className="c21"
+              height="24px"
+              role="img"
+              version="1.1"
+              viewBox="0 0 24 24"
+              width="24px"
+            >
+              <path
+                d="M12,22 C12,22 4,16 4,10 C4,5 8,2 12,2 C16,2 20,5 20,10 C20,16 12,22 12,22 Z M12,13 C13.657,13 15,11.657 15,10 C15,8.343 13.657,7 12,7 C10.343,7 9,8.343 9,10 C9,11.657 10.343,13 12,13 L12,13 Z"
+                fill="none"
+                stroke="#000"
+                strokeWidth="2"
+              />
+            </svg>
+          </div>
+        </button>
+        <button
+          className="c4"
+          disabled={false}
+          onBlur={[Function]}
+          onClick={[Function]}
+          onFocus={[Function]}
+          type="button"
+        >
+          <div
+            className="c20"
+          >
+            <svg
+              aria-label="Cli"
+              className="c21"
+              height="24px"
+              role="img"
+              version="1.1"
+              viewBox="0 0 24 24"
+              width="24px"
+            >
+              <path
+                d="M1,1 L23,1 L23,23 L1,23 L1,1 Z M1,5 L23,5 M5,1 L5,5 M11,16 L19,16 M5,10 L8,13 L5,16"
+                fill="none"
+                stroke="#000"
+                strokeWidth="2"
+              />
+            </svg>
+          </div>
+        </button>
+        <div
+          onKeyDown={[Function]}
+        >
+          <button
+            aria-label="Open Menu"
+            className="c4"
+            disabled={false}
+            onBlur={[Function]}
+            onClick={[Function]}
+            onFocus={[Function]}
+            type="button"
+          >
+            <div
+              className="c5"
+            >
+              <span
+                className="c6"
+              />
+              <svg
+                aria-label="User"
+                className="c21"
+                height="24px"
+                role="img"
+                version="1.1"
+                viewBox="0 0 24 24"
+                width="24px"
+              >
+                <path
+                  d="M8,24 L8,19 M16,24 L16,19 M3,24 L3,19 C3,14.0294373 7.02943725,11 12,11 C16.9705627,11 21,14.0294373 21,19 L21,24 M12,11 C14.7614237,11 17,8.76142375 17,6 C17,3.23857625 14.7614237,1 12,1 C9.23857625,1 7,3.23857625 7,6 C7,8.76142375 9.23857625,11 12,11 Z"
+                  fill="none"
+                  stroke="#000"
+                  strokeWidth="2"
+                />
+              </svg>
+            </div>
+          </button>
+        </div>
+      </div>
+    </footer>
+  </div>
+</div>
+`;
