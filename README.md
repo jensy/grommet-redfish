@@ -30,7 +30,7 @@ To run this application, execute the following commands:
 
 ## Notes
 
-hierarchical virtual data object, lazily loaded
-UI descriptors with references to paths in the data object
-Server: holds the retrieved back-end data, dataIds, references
-Reference: asks server for reference data, which will be loaded if needed
+- hierarchical virtual data object, lazily loaded
+- UI descriptors with references to paths in the data object
+- Server: holds the retrieved back-end data, dataIds, references
+- Reference: asks server for reference data, which will be loaded if needed

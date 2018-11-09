@@ -37,10 +37,11 @@ export default () => (
             Server
           </Heading>
           <Menu
-            label="Power Options"
+            label="Power"
             icon={<Power />}
             items={[
               { label: 'Hard Reset' },
+              { label: 'Shutdown' },
             ]}
           />
         </Box>
@@ -127,10 +128,10 @@ export default () => (
             {data => <Text>{data}</Text>}
           </Reference>
           <Box direction="row">
-            <Button icon={<Location />} onClick={() => {}} />
-            <Button icon={<Console />} onClick={() => {}} />
+            <Button a11yTitle="Location" icon={<Location />} onClick={() => {}} />
+            <Button a11yTitle="Console" icon={<Console />} onClick={() => {}} />
             <Menu
-              dropAlign={{ right: 'right' }}
+              dropAlign={{ right: 'right', bottom: 'top' }}
               icon={<User />}
               items={[
                 { label: 'Logout', onClick: onLogout },

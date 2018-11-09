@@ -87,27 +87,30 @@ export default class Server extends Component {
       [nextNode] = nextNode; // only get the first item in an array for now
     }
 
-    const dataId = nextNode['@odata.id'];
-    if (dataId) {
-      if (dataIds[dataId]) {
-        nextNode = dataIds[dataId];
-      } else {
-        if (!this.loading[dataId]) {
-          this.loading[dataId] = true;
-          get(dataId).then((data) => {
-            this.loading[dataId] = false;
-            const { dataIds: prevDataIds } = this.state;
-            const nextDataIds = { ...prevDataIds };
-            nextDataIds[dataId] = data;
-            this.setState({ dataIds: nextDataIds });
-          });
+    if (nextNode) {
+      const dataId = nextNode['@odata.id'];
+      // don't have to load if this is an internal reference
+      if (dataId && dataId.indexOf('#') === -1) {
+        if (dataIds[dataId]) {
+          nextNode = dataIds[dataId];
+        } else {
+          if (!this.loading[dataId]) {
+            this.loading[dataId] = true;
+            get(dataId).then((data) => {
+              this.loading[dataId] = false;
+              const { dataIds: prevDataIds } = this.state;
+              const nextDataIds = { ...prevDataIds };
+              nextDataIds[dataId] = data;
+              this.setState({ dataIds: nextDataIds });
+            });
+          }
+          // need to wait until we load this before we can proceed
+          return undefined;
         }
-        // need to wait until we load this before we can proceed
-        return undefined;
       }
-    }
-    if (parts.length > 1) {
-      return this.getData(parts.slice(1), nextNode);
+      if (parts.length > 1) {
+        return this.getData(parts.slice(1), nextNode);
+      }
     }
     return nextNode;
   }
